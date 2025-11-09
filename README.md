@@ -1,6 +1,6 @@
 # 个人主页
 
-一个基于 Flask 的现代化个人主页应用，可展示您的 GitHub 个人信息、项目和技术栈，并支持多种部署方式。(注意！！！！我并非作者，原作者是https://github.com/SRInternet/Home_Page）
+一个基于 Flask 的现代化个人主页应用，可展示您的 GitHub 个人信息、项目和技术栈，并支持多种部署方式。注意！！！！我并非作者，原作者("https://github.com/SRInternet/Home_Page")
 
 <img width="1280" height="700" alt="image" src="https://github.com/user-attachments/assets/7d394bbd-c4ed-4398-a551-104237f90c4e" />
 
